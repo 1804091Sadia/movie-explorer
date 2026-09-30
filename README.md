@@ -6,7 +6,7 @@ Users can browse shows, search for specific titles, and view detailed informatio
 
 ## 🚀 Live Demo
 
-movie-explorer-eight-blond.vercel.app.
+[movie-explorer-eight-blond.vercel.app](https://movie-explorer-eight-blond.vercel.app/).
 
 ## 📌 Features
 
